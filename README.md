@@ -15,7 +15,7 @@ Build Restful CRUD API for a simple Book-Manage application using Spring MVC, My
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/scbushan05/book-api.git
+git clone 
 ```
 
 **2. Create Mysql database**
@@ -58,6 +58,4 @@ You can test them using postman or any other rest client.
 
 ## Learn more
 
-You can find the tutorial for this application on my blog - 
 
-<http://bushansirgur.in/angular-2-and-spring-mvc-simple-crud-application/>
